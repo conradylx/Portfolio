@@ -16,13 +16,13 @@ const useStyles = makeStyles((theme) => ({
     },
     title: {
         color: "#8d2100",
-        fontSize: "3vw",
+        fontSize: "1.5rem",
         userSelect: "none"
     },
     subtitle: {
         color: "#000000",
         textTransform: "uppercase",
-        fontSize: "2vw",
+        fontSize: "1rem",
         userSelect: "none"
     },
     typedContainer: {
