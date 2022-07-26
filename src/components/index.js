@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <React.Fragment>
       <Introduction />
-      <Particles />
+      {/* <Particles /> */}
     </React.Fragment>
   );
 };
